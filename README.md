@@ -15,29 +15,9 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-/zerodha-trade
-├── index.ts               # Entry point, handles MCP tool logic
-├── tools/
-│   ├── buy-stock.ts       # Buy stock tool
-│   └── sell-stock.ts      # Sell stock tool
-├── utils/
-│   └── kiteInstance.ts    # Exports configured KiteConnect instance
-├── types/
-│   └── schema.ts          # Zod schema for input validation
-├── .env                   # API keys and secrets
-├── mcp.config.json        # MCP tool configuration
-└── README.md              # Project documentation
-```
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/zerodha-trade
 cd zerodha-trade
