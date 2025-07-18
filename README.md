@@ -18,6 +18,7 @@
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/zerodha-trade
 cd zerodha-trade
@@ -46,6 +47,10 @@ bun index.ts
 ```
 
 ---
+
+### 📸 Screenshots
+
+![MCP Command Demo](./assets/claudeAI.png)
 
 ## 📥 Example Command Usage
 
