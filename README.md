@@ -50,7 +50,7 @@ bun index.ts
 
 ### 📸 Screenshots
 
-![MCP Command Demo](assets/claudeAI.png)
+<img src="assests/claudeAI.png" alt="MCP Command Demo" width="500"/>
 
 ## 📥 Example Command Usage
 
