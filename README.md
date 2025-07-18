@@ -50,7 +50,15 @@ bun index.ts
 
 ### 📸 Screenshots
 
+## Claude AI making transaction
+
 <img src="assests/claudeAI.png" alt="MCP Command Demo" width="500"/>
+
+
+
+## Zerodha server
+
+<img src="assests/Screenshot 2025-07-18 153130.png" alt="MCP Command Demo" width="500"/>
 
 ## 📥 Example Command Usage
 
